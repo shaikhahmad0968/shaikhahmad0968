@@ -5,7 +5,7 @@
 - 📫 How to reach me: ahmadshaikh0968@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Instagram: shaikhahmad0968
-<br>
+
 # 🚀 Technologies:
 - **Languages:** Python, C, Java 
 - **Interests:** ML, DSA
